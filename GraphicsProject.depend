@@ -1,0 +1,156 @@
+# depslib dependency file v1.0
+1522343591 source:c:\users\user\documents\bevprog ii\widget2\graphicsproject\main.cpp
+	"graphics.hpp"
+	"Widget.h"
+	"SimpleText.h"
+
+1430022466 c:\users\user\documents\bevprog ii\widget2\graphicsproject\include\graphics.hpp
+	<string>
+
+1522342866 source:c:\users\user\documents\bevprog ii\widget2\graphicsproject\widget.cpp
+	"Widget.h"
+
+1522343633 c:\users\user\documents\bevprog ii\widget2\graphicsproject\widget.h
+	"graphics.hpp"
+
+1522343576 source:c:\users\user\documents\bevprog ii\widget2\graphicsproject\simpletext.cpp
+	"SimpleText.h"
+	"graphics.hpp"
+
+1522343660 c:\users\user\documents\bevprog ii\widget2\graphicsproject\simpletext.h
+	"Widget.h"
+
+1523881015 source:c:\users\balazs\desktop\cpp\malac\widget2\graphicsproject\main.cpp
+	"graphics.hpp"
+	"Widget.h"
+	"SimpleText.h"
+	"InputField.h"
+	"Spinner.h"
+	"CheckBox.h"
+	"ListBox.h"
+	<vector>
+	<iostream>
+	<fstream>
+
+1430022466 c:\users\balazs\desktop\cpp\malac\widget2\graphicsproject\include\graphics.hpp
+	<string>
+
+1523804204 c:\users\balazs\desktop\cpp\malac\widget2\graphicsproject\widget.h
+	"graphics.hpp"
+
+1523274303 c:\users\balazs\desktop\cpp\malac\widget2\graphicsproject\simpletext.h
+	"Widget.h"
+
+1523650486 source:c:\users\balazs\desktop\cpp\malac\widget2\graphicsproject\simpletext.cpp
+	"SimpleText.h"
+	"graphics.hpp"
+
+1523478248 source:c:\users\balazs\desktop\cpp\malac\widget2\graphicsproject\widget.cpp
+	"Widget.h"
+	<iostream>
+
+1523477711 source:c:\users\balazs\desktop\cpp\malac\widget2\graphicsproject\movablewidget.cpp
+	"MovableWidget.h"
+	"graphics.hpp"
+	<iostream>
+
+1523274303 c:\users\balazs\desktop\cpp\malac\widget2\graphicsproject\movablewidget.h
+	"Widget.h"
+
+1523478308 source:c:\users\balazs\desktop\cpp\malac\widget2\graphicsproject\inputfield.cpp
+	"InputField.h"
+	<iostream>
+	"graphics.hpp"
+	<sstream>
+	<string>
+	<cmath>
+
+1523353047 c:\users\balazs\desktop\cpp\malac\widget2\graphicsproject\inputfield.h
+	"MovableWidget.h"
+
+1523804706 c:\users\balazs\desktop\cpp\malac\widget2\graphicsproject\spinner.h
+	"MovableWidget.h"
+
+1523802840 source:c:\users\balazs\desktop\cpp\malac\widget2\graphicsproject\spinner.cpp
+	"Spinner.h"
+	<iostream>
+	"graphics.hpp"
+	<sstream>
+	<string>
+
+1523804622 source:c:\users\balazs\desktop\cpp\malac\widget2\graphicsproject\checkbox.cpp
+	"CheckBox.h"
+	<iostream>
+	"graphics.hpp"
+	<sstream>
+	<string>
+
+1523808041 c:\users\balazs\desktop\cpp\malac\widget2\graphicsproject\checkbox.h
+	"MovableWidget.h"
+
+1523804495 source:c:\users\balazs\desktop\cpp\malac\widget2\graphicsproject\listbox.cpp
+	"ListBox.h"
+	<iostream>
+	"graphics.hpp"
+	<sstream>
+	<string>
+	<iostream>
+	<cmath>
+
+1523804495 c:\users\balazs\desktop\cpp\malac\widget2\graphicsproject\listbox.h
+	"MovableWidget.h"
+	<vector>
+	<iostream>
+
+1525432035 source:c:\users\balazs\desktop\cpp\amõba\amõba\graphicsproject\draw.cpp
+	"draw.h"
+	<vector>
+	<cmath>
+	<iostream>
+	"graphics.hpp"
+
+1525261073 c:\users\balazs\desktop\cpp\amõba\amõba\graphicsproject\draw.h
+	<vector>
+	"event_loop.h"
+
+1525432054 source:c:\users\balazs\desktop\cpp\amõba\amõba\graphicsproject\event_loop.cpp
+	"event_loop.h"
+	"ellenorzo.h"
+	"draw.h"
+	"graphics.hpp"
+	<iostream>
+
+1525700237 c:\users\balazs\desktop\cpp\amõba\amõba\graphicsproject\event_loop.h
+	<vector>
+	"graphics.hpp"
+	"game_master.h"
+
+1525431394 source:c:\users\balazs\desktop\cpp\amõba\amõba\graphicsproject\main.cpp
+	<iostream>
+	"graphics.hpp"
+	<vector>
+	"event_loop.h"
+	"draw.h"
+	"game_master.h"
+	"ellenorzo.h"
+
+1430022466 c:\users\balazs\desktop\cpp\amõba\amõba\graphicsproject\include\graphics.hpp
+	<string>
+
+1525169169 c:\users\balazs\desktop\cpp\amõba\amõba\graphicsproject\game_master.h
+	<vector>
+	"graphics.hpp"
+	"event_loop.h"
+
+1525169121 source:c:\users\balazs\desktop\cpp\amõba\amõba\graphicsproject\game_master.cpp
+	"game_master.h"
+	"graphics.hpp"
+
+1525700007 source:c:\users\balazs\desktop\cpp\amõba\amõba\graphicsproject\ellenorzo.cpp
+	"ellenorzo.h"
+	<iostream>
+	<vector>
+
+1525781028 c:\users\balazs\desktop\cpp\amõba\amõba\graphicsproject\ellenorzo.h
+	"event_loop.h"
+
